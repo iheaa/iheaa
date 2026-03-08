@@ -1,25 +1,34 @@
-## Hi there 👋
+# Hello There
 
-I'm Iqbal, a Junior Programmer based in Indonesia.
+```text
+> [!IMPORTANT]
+> This profile is currently undergoing active development. 
+> Expect frequent updates as I transition from student to professional!
 
-Iam currently in my final year at SMK Telkom Purwokerto and will be graduating this year.
 
-I'm currently learning Flutter, C#, and Python
 
-⚡ Fun fact: 
-    - Manga Collector
-    - Gundam Enthusiast
-<!--
-**iheaa/iheaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📟 System Information
 
-Here are some ideas to get you started:
+- Name        : Mochamad Iqbal Airlangga
+- Role        : Junior Programmer
+- Location    : Indonesia 🇮🇩
+- Education   : Final Year @ SMK Telkom Purwokerto (Class of 2026)
+- Status      : Preparing for Graduation... 🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠️ Current Tech Stack
+
+{
+  "Mobile"  : ["Flutter"],
+  "Backend" : ["C#", "Python"],
+  "Database": ["Learning in progress..."]
+}
+
+
+
+# 📂 My Hobby Archives
+
+
+[✓] Manga Collector (Physical & Digital)
+[✓] Gundam Enthusiast (Gunpla Builder)
+
+```
