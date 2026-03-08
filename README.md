@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Iqbal, a Junior Programmer based in Indonesia.
+
+Iam currently in my final year at SMK Telkom Purwokerto and will be graduating this year.
+
+I'm currently learning Flutter, C#, and Python
+
+⚡ Fun fact: 
+    - Manga Collector
+    - Gundam Enthusiast
 <!--
 **iheaa/iheaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
