@@ -13,16 +13,7 @@
 - Role        : Junior Programmer
 - Location    : Indonesia 🇮🇩
 - Education   : Final Year @ SMK Telkom Purwokerto (Class of 2026)
-- Status      : Preparing for Graduation... 🎓
-
-# 🛠️ Current Tech Stack
-
-{
-  "Mobile"  : ["Flutter"],
-  "Backend" : ["C#", "Python"],
-  "Database": ["Learning in progress..."]
-}
-
+- Status      : Kejang Kejang
 
 
 # 📂 My Hobby Archives
