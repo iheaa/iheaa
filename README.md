@@ -9,7 +9,7 @@
 
 # 📟 System Information
 
-- Name        : Mochamad Iqbal Airlangga
+- Name        : Balas Budi
 - Role        : Junior Programmer
 - Location    : Indonesia 🇮🇩
 - Education   : Final Year @ SMK Telkom Purwokerto (Class of 2026)
@@ -21,5 +21,6 @@
 
 [✓] Manga Collector (Physical & Digital)
 [✓] Gundam Enthusiast (Gunpla Builder)
+[✓] Music Enjoyer
 
 ```
